@@ -1,0 +1,30 @@
+h1{
+    
+    background-color: lightslategray;
+    text-align: center;
+    
+}
+
+.normal_Button
+{
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-content: center;
+    background-color: aliceblue;
+}
+
+.main_div
+{
+    background-color:lightblue; 
+    height: 500px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+.my_logo
+{
+    width: 200px;
+    height: 200px;
+}
